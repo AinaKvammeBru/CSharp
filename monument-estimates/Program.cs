@@ -37,7 +37,7 @@ namespace ArchitectArithmetic
 
     Console.WriteLine("What monument would you like to work with?");
     string project = Console.ReadLine().ToLower();
-    Console.WriteLine(project);
+    //Console.WriteLine(project);
 
 
 
